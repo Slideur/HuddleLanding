@@ -38,8 +38,8 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/tailwind-mobile-first-workflow-mki_iONjff)
-- Live Site URL: [Add live site URL here](https://slideur.github.io/HuddleLanding/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/tailwind-mobile-first-workflow-mki_iONjff)
+- Live Site URL: [Live site URL here](https://slideur.github.io/HuddleLanding/)
 
 ### Built with
 
